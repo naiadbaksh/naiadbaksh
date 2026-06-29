@@ -91,16 +91,10 @@ Small ideas, prototypes, and things I build because I'm curious.
 
 ### 📫 Let's Connect
 
-💼 LinkedIn
+💼 LinkedIn https://www.linkedin.com/in/naiad-baksh-91963aa0/
 
-🌎 Portfolio
+🌎 Portfolio naiadbaksh.com    
 
-📧 Email
+📧 Email naiadbaksh@gmail.com
 
-## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naiadbaksh&show_icons=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=naiadbaksh&hide_border=true)

@@ -1,100 +1,81 @@
-# Hi, I'm Naiad 👋
+# Naiad Baksh
 
-**Full-Stack Software Engineer** based in Toronto 🇨🇦
+**Full-stack engineer · Toronto, Canada**
 
-I build products that solve real problems.
+I build products end to end, from the first customer conversation to the production deploy, with a focus on AI-powered applications.
 
-Over the past 5+ years I've worked across startups and enterprise teams, shipping production software with **React, TypeScript, Node.js, Python, GraphQL, PostgreSQL, MongoDB, AWS**, and modern AI tooling.
-
-I'm happiest when I can own a problem end-to-end—understanding the user, designing the system, building the product, and iterating based on feedback.
+Over 5+ years I've shipped production software for startups and enterprise teams using React, TypeScript, Node.js, Python, and AWS. Before engineering, I worked in sales. That's where I learned the part of this job that's hardest to teach: understanding what the customer actually needs before writing any code.
 
 ---
 
-## 🚀 What I'm Working On
+### What I do
 
-* 🤖 Building AI-powered applications and autonomous agents
-* ⚛️ Modern React & TypeScript applications
-* 🐍 Backend systems with Python & Node.js
-* ☁️ Cloud infrastructure & deployment
-* 🧠 Exploring LLMs, RAG, and agentic workflows
-
----
-
-## 🛠 Tech Stack
-
-**Languages**
-
-TypeScript • JavaScript • Python • SQL
-
-**Frontend**
-
-React • Next.js • Gatsby • HTML • CSS • Tailwind
-
-**Backend**
-
-Node.js • Express • Django • GraphQL • REST APIs
-
-**Databases**
-
-PostgreSQL • MongoDB • Redis
-
-**Cloud & DevOps**
-
-AWS • Docker • Git • GitHub Actions • CI/CD
-
-**AI**
-
-OpenAI API • Prompt Engineering • MCP • AI-assisted development
+- **Product engineering:** I own features from discovery through design, build, launch, and iteration.
+- **AI applications:** I build LLM features, RAG pipelines, and agentic workflows that hold up in production, not just in a demo.
+- **Backend and APIs:** I write Node.js and Python services, GraphQL and REST APIs, and data models in PostgreSQL and MongoDB.
+- **Cloud and delivery:** I work with AWS, Docker, and CI/CD on GitHub Actions, and I'm comfortable owning what I ship after it's live.
 
 ---
 
-## 🌱 Philosophy
+### Selected work
 
-I believe great software comes from deeply understanding people first.
+#### Thought Garden
 
-My background in sales taught me how to listen, ask better questions, and understand customer problems. Engineering gave me the tools to solve them.
+<sub>Django REST · React · Spotify Web API</sub>
 
-That's why I love building products—not just writing code.
+A shared listening room where a group controls one podcast player from their own phones, with host-set permissions and vote-to-skip. I made the host's Spotify account the single source of playback, so there's nothing to keep in sync. OAuth and token refresh stay on the server, so secrets never reach the browser.
 
----
+[Code](https://github.com/naiadbaksh/thought-garden) · [Demo video](https://www.youtube.com/watch?v=ASBGLWwAu1I) · [Case study](https://naiadbaksh.com/thoughtgarden)
 
-## 📌 Featured Projects
+#### Pathfinding Visualizer
 
-### 🤖 AI Projects
+<sub>React · Hooks</sub>
 
-Applications exploring LLMs, autonomous agents, and workflow automation.
+An interactive grid that animates seven search algorithms (Dijkstra's, A\*, BFS, DFS and more) and four maze generators step by step. Each algorithm runs to completion and returns its visit order. The animation then replays that order through direct DOM updates, which avoids re-rendering thousands of cells per frame. Each algorithm is a pure module, so adding one doesn't touch the UI.
 
-### 🌐 Full-Stack Applications
+[Live demo](https://naiadbaksh.github.io/pathfinding/) · [Code](https://github.com/naiadbaksh/pathfinding) · [Case study](https://naiadbaksh.com/pathfindingvisualizer)
 
-Production-ready applications built with React, Node.js, GraphQL, and cloud infrastructure.
+#### eCommerce store
 
-### ⚡ Experiments
+<sub>React · Redux · Firebase · Stripe</sub>
 
-Small ideas, prototypes, and things I build because I'm curious.
+A storefront with OAuth sign-in, a persistent cart, and Stripe checkout. Shared state lives in Redux behind selectors, so changes to the store's shape don't ripple through the UI. I extended it from a course project.
 
----
+[Live demo](https://jovial-wozniak-c11748.netlify.app/) · [Code](https://github.com/naiadbaksh/eCommerce) · [Case study](https://naiadbaksh.com/ecommerce)
 
-## 📈 Current Interests
-
-* Forward Deployed Engineering
-* AI Agents
-* LangGraph
-* Distributed Systems
-* Product Engineering
-* Human-Computer Interaction
+Each case study covers the architecture, the tradeoffs, and what I'd do differently.
 
 ---
 
-> *"Stay curious. Build things. Ship often."*
+### Stack
+
+| | |
+|---|---|
+| **Languages** | TypeScript, JavaScript, Python, SQL |
+| **Frontend** | React, Next.js, Gatsby, Tailwind |
+| **Backend** | Node.js, Express, Django, GraphQL, REST |
+| **Data** | PostgreSQL, MongoDB, Redis |
+| **Cloud & DevOps** | AWS, Docker, GitHub Actions |
+| **AI** | OpenAI API, RAG, agents, MCP, LangGraph |
 
 ---
 
-### 📫 Let's Connect
+### How I work
 
-💼 LinkedIn https://www.linkedin.com/in/naiad-baksh-91963aa0/
+- **Start with the user.** I'd rather spend an hour on a customer call than a week building the wrong thing.
+- **Ship small, ship often.** I get working software in front of people early, measure the result, and iterate.
+- **Own the outcome.** My job isn't done when the PR merges. It's done when the problem is solved.
 
-🌎 Portfolio naiadbaksh.com    
+---
 
-📧 Email naiadbaksh@gmail.com
+### Currently
 
+Building with LLMs and agent frameworks, and going deeper on distributed systems.
 
+**Open to** full-stack, product, and forward deployed engineering roles in Toronto or remote in Canada.
+
+---
+
+### Contact
+
+[LinkedIn](https://www.linkedin.com/in/naiad-baksh-91963aa0/) · [Portfolio](https://naiadbaksh.com) · [naiadbaksh@gmail.com](mailto:naiadbaksh@gmail.com)
